@@ -1,3 +1,5 @@
+JS手势库
+
 # Hammer.js [![Build Status](https://travis-ci.org/EightMedia/hammer.js.png)](https://travis-ci.org/EightMedia/hammer.js/)
 
 ### A javascript library for multi-touch gestures
